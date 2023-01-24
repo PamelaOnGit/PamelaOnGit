@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PamelaOnGit
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Python
 
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/pam-smith-software/
